@@ -1,5 +1,22 @@
 h1 {
     /* color: #ff0000; */
-    /* font-size: 24px; */
+    font-size: 60px;
     font-family: Arial, sans-serif;
+}
+
+li {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 25px;
+}
+
+a {
+    color: #0000ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
