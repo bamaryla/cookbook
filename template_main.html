@@ -12,11 +12,9 @@
     <h1>Przepisy</h1>
     <hr>
     <ol>
-    
-        <li><a href="recipes/jajecznica.html">Jajecznica</li>
-    
-        <li><a href="recipes/kanapka.html">Kanapka</li>
-    
+    {% for key, value in recipes.items() %}
+        <li><a href="recipes/{{ key }}.html">{{ value }}</li>
+    {% endfor %}
     </ol>
 </body>
 </html>

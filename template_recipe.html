@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ recipe.title }} - przepis</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1><a href="../index.html"><</a><center>{{ recipe.title }}</center></h1>
+    <hr>
+    <div>
+        Składniki
+        <ol>
+            {% for ingredient in recipe.ingredients %}
+                <li>{{ ingredient }}</li>
+            {% endfor %}
+        </ol>
+    </div>
+    <br>
+    <br>
+    <div>
+        Sposób wykonania
+        <ol>
+            {% for step in recipe.instructions %}
+                <li>{{ step }}</li>
+            {% endfor %}
+        </ol>
+    </div>
+    <div>
+        <img src="../images/{{ image_filename }}" alt="" width="600px">
+    </div>
+</body>
+</html>
