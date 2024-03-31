@@ -1,0 +1,28 @@
+{
+    "title": "Smakołyk",
+    "ingredients": {
+        "masa kokosowa": {
+            "masło": "½ kostki",
+            "margaryna": "½ kostki",
+            "cukier puder": "½ szklanki",
+            "wiórki kokosowe": "5-10 dkg",
+            "sok z cytryny": "wedle uznania"
+        },
+        "masa czekoladowa": {
+            "cukier": "½ szklanki",
+            "woda": "½ szklanki",
+            "kakao": "3 łyżki",
+            "kruche herbatniki": "3 paczki",
+            "cukier waniliowy": "wedle uznania"
+        }
+    },
+    "instructions": [
+        "Utrzeć masło z margaryną, wsypać po trochu cukier puder.",
+        "Do puszystej masy dodać sok z cytryny i wiórki kokosowe, wymieszać i odstawić do lodówki.",
+        "W maszynce do mięsa zmielić ciasteczka, dodać cukier, wymieszać z kakao oraz cukier waniliowy.",
+        "Wlać trochę wody (ciasto powinno powstać dosyć gęste), wymieszać.",
+        "Następnie na pergaminie uformować z ciasta kwadrat lub prostokąt i rozsmarować masę kokosową.",
+        "Zwinąć w rulon i wstawić do lodówki.",
+        "Do jedzenia nadaje się gdy stwardnieje."
+    ]
+}

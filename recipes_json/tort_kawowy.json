@@ -1,0 +1,34 @@
+{
+    "title": "Tort kawowy",
+    "ingredients": {
+        "ciasto": {
+            "żółtka": "8",
+            "cukier": "24 dag",
+            "mąka": "16 dag",
+            "sok z cytryny": "wedle uznania",
+            "białka": "9"
+        },
+        "masa": {
+            "napar z kawy": "3-4 dag",
+            "cukier": "3-4 łyżki",
+            "żółtka": "3",
+            "jaja": "2",
+            "masło": "30 dag"
+        },
+        "poncz": {
+            "woda": "pół szklanki",
+            "cukier": "6 dag",
+            "sok z pomarańczy": "wedle uznania",
+            "sok z cytryny": "sok z połowy cytryny",
+            "olejek rumowy": "kilka kropli"
+        }
+    },
+    "instructions": [
+        "Utrzeć żółtka z cukrem, dodać sok z cytryny, sztywno ubitą pianę z białek, mąkę i lekko wymieszać.",
+        "Tortownicę wyłożyć krążkiem papieru, posmarować masłem i wylać ciasto. Wstawić do nagrzanego piekarnika i piec 40-45 minut, najlepiej na dzień przed robieniem tortu.",
+        "W rondelku pod przykryciem zaparzyć mocną kawę, osłodzić, podgrzać i przecedzić.",
+        "Na parze utrzeć z cukrem żółtka i jaja przeznaczone na masę. Gdy masa zgęstnieje, dodać trochę naparu z kawy.",
+        "Utrzeć na pianę masło i połączyć z ostudzoną masą. Cały czas ucierając, dodawać resztę naparu z kawy.",
+        "Ciasto podzielić na 3 części, każdą nasączyć ponczem. Każdy placek posmarować masą i ułożyć jeden na drugim. Wstawić do lodówki na 20 minut, a następnie udekorować bitą śmietaną i bakaliami."
+    ]
+}

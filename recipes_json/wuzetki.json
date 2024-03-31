@@ -1,0 +1,29 @@
+{
+    "title": "Wuzetki",
+    "ingredients": {
+        "Ciasto": {
+            "składniki": [
+                "1 szklanka mąki pszennej",
+                "2 łyżki mąki ziemniaczanej",
+                "20 dag margaryny",
+                "1 szklanka cukru",
+                "4 jaja",
+                "3-4 łyżki kakao",
+                "2 łyżeczki proszku do pieczenia",
+                "½ łyżeczki sody"
+            ],
+            "kroki": "Utrzeć margarynę z cukrem i żółtkiem na gładką masę. Dodać mąkę, kakao, sodę i proszek do pieczenia. Na koniec włożyć ubitą pianę z białek i delikatnie wymieszać. Wstawić do nagrzanego piekarnika i piec 40 min."
+        },
+        "Krem": {
+            "składniki": [
+                "3 żółtka",
+                "1 szklanka cukru pudru",
+                "2 kubeczki serka homogenizowanego",
+                "25 dag masła",
+                "łyżka żelatyny"
+            ],
+            "kroki": "Utrzeć masło z cukrem, dodawać po jednym żółtku. Do gładkiej masy dodawać po łyżce serek z żelatyną rozpuszczoną w jak najmniejszej ilości wody."
+        }
+    },
+    "instructions": "Upieczone ciasto przekroić, przełożyć kremem, polać polewą czekoladową i udekorować wierzch kremem."
+}
