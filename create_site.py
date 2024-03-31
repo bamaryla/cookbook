@@ -13,10 +13,17 @@ recipes = {}
 
 for recipe_file in list_of_recipes_json_files:
     recipe_file_no_ext = recipe_file.replace('.json', '')
-    image_filename = [image for image in images if image.startswith(recipe_file_no_ext)][0]
+
+    try:
+        image_filename = [image for image in images if image.startswith(recipe_file_no_ext)][0]
+    except IndexError:
+        image_filename = "default.jpg"
 
     with open(f'recipes_json/{recipe_file}') as f:
-        recipe = json.load(f)
+        try:
+            recipe = json.load(f)
+        except:
+            print(f'Error while reading {recipe_file}')
 
     with open(f'recipes/{recipe_file.replace("json", "html")}', 'w') as f:
         f.write(template_recipe.render(recipe=recipe, image_filename=image_filename))
