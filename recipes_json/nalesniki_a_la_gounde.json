@@ -1,0 +1,50 @@
+{
+    "title": "Naleśniki a la Gounde",
+    "ingredients": {
+        "Ciasto": {
+            "mleko": "250 ml",
+            "woda sodowa": "250 ml",
+            "sól": "szczypta",
+            "jajka": "3 sztuki",
+            "cukier": "do smaku"
+        },
+        "Nadzienie": {
+            "cukier waniliowy": "do smaku",
+            "śmietanka": "100 ml",
+            "cukier puder": "120 g",
+            "cynamon": "1 łyżeczka",
+            "rodzynki": "40 g",
+            "skórka kandyzowana": "do smaku",
+            "rum": "do moczenia",
+            "orzechy zmielone": "120 g"
+        },
+        "Sos czekoladowy": {
+            "mleko": "1 szklanka",
+            "rum": "1 kieliszek",
+            "cukier": "110 g",
+            "czekolada": "1 tabliczka",
+            "kakao": "50 g",
+            "żółtka": "3 sztuki",
+            "śmietana 30%": "250 ml",
+            "mąka": "odrobina",
+            "cukier waniliowy": "do smaku"
+        },
+        "Polewa": {
+            "mleko": "ilość potrzebna",
+            "cukier": "ilość potrzebna",
+            "czekolada": "ilość potrzebna",
+            "kakao": "ilość potrzebna",
+            "żółtka": "ilość potrzebna",
+            "śmietana 30%": "ilość potrzebna",
+            "rum": "ilość potrzebna"
+        }
+    },
+    "instructions": [
+        "Usmażyć naleśniki na maśle.",
+        "Rozpuścić cukier waniliowy w śmietance na gazie w garnku.",
+        "Rozpuścić cukier puder w śmietance na gazie w garnku.",
+        "Wystudzić.",
+        "Na gazie silnie podgrzać, ale nie gotować, mleko z cukrem, pokruszoną czekoladą, kakao i żółtkami.",
+        "Ubić śmietanę, dodać do sosu razem z rumem."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Karpatka",
+    "ingredients": {
+        "ciasto": {
+            "mąka pszenna": "1 szklanka",
+            "margaryna": "½ kostki",
+            "jajka": "5",
+            "woda": "1 szklanka"
+        },
+        "masa": {
+            "masło": "1 kostka",
+            "mleko": "½ litra",
+            "mąka ziemniaczana": "3 łyżki",
+            "mąka pszenna": "2 łyżki",
+            "cukier waniliowy": "wedle uznania",
+            "cukier": "2 łyżki"
+        }
+    },
+    "instructions": [
+        "Rozpuścić margarynę, dodać wodę i mąkę, zagrzać, aż ciasto zacznie 'odchodzić' od garnka. Schłodzić.",
+        "Do zimnej masy dodawać po jednym jajku i ucierać.",
+        "Podzielić na 2 blachy i upiec w dobrze nagrzanym piekarniku.",
+        "Z mleka, mąki i cukru ugotować budyń.",
+        "Utrzeć masło i dodawać po łyżce oziębionego budyniu.",
+        "Przełożyć placek polewą czekoladową.",
+        "Ostudzone ciasto pokroić jeszcze w blaszce na kwadraty."
+    ]
+}
