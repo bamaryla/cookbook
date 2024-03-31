@@ -1,0 +1,34 @@
+{
+    "title": "Biszkopt z serem",
+    "ingredients": {
+        "Biszkopt": {
+            "składniki": [
+                "4 jaja",
+                "szklanka mąki",
+                "łyżka mąki ziemniaczanej",
+                "2 płaskie łyżeczki proszku do pieczenia",
+                "szklanka cukru"
+            ],
+            "kroki": "Całe jaja ubić z cukrem, dodać mąkę i proszek do pieczenia, dokładnie wymieszać. Piec około 25 minut w temperaturze 160-180 st. C."
+        },
+        "Masa twarogowa": {
+            "składniki": [
+                "50 dag twarogu",
+                "2 jaja",
+                "1/2 szklanki mleka",
+                "łyżka mąki ziemniaczanej",
+                "1/2 szklanki cukru",
+                "esencja zapachowa"
+            ],
+            "kroki": "Twaróg zemleć, utrzeć z jajami i mlekiem rozmieszanym z mąką ziemniaczaną. Margarynę i cukier rozpuścić w dość dużym garnku, dodać masę twarogową, esencję zapachową i gotować do zgęstnienia, cały czas mieszając."
+        },
+        "Do dekoracji": {
+            "składniki": [
+                "polewa kakaowa",
+                "wiórki kokosowe",
+                "owoce"
+            ],
+            "kroki": "Wystudzony biszkopt podzielić na krążki i przekładać gorącą masą. Można polać polewą kakaową i posypać wiórkami kokosowymi."
+        }
+    }
+}

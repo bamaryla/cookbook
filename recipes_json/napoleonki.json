@@ -1,0 +1,23 @@
+{
+    "title": "Napoleonki",
+    "ingredients": {
+        "Ciasto": {
+            "składniki": [
+                "2 szklanki mąki",
+                "2 szklanki śmietany",
+                "kostka margaryny"
+            ],
+            "kroki": "Mąkę z margaryną posiekać nożem, wlać śmietanę i szybko zagnieść ciasto. Wałkować tak jak ciasto francuskie, tj. tylko w jedną stronę, składać i znowu wałkować w tym samym kierunku. Przed złożeniem posypywać ciasto mąką. Włożyć do lodówki i dobrze schłodzić, następnie upiec dwa jednakowe prostokątne placki na dużych blachach. Piec w piekarniku nagrzanym do 180 st. C na złocisty kolor."
+        },
+        "Krem": {
+            "składniki": [
+                "litr mleka",
+                "szklanka mąki",
+                "niepełna szklanka cukru",
+                "2 żółtka",
+                "cukier wanilinowy"
+            ],
+            "kroki": "Pół litra mleka zagotować z cukrem. W pozostałym mleku rozmącić żółtka, wsypać mąkę, cukier wanilinowy, wymieszać, przetrzeć przez sitko, wlać do wrzącego mleka i cały czas mieszając zagotować. Ciepły krem wyłożyć na placek, przykryć drugim, lekko przycisnąć. Po całkowitym wystygnięciu obsypać cukrem pudrem, pokroić na kwadraty."
+        }
+    }
+}

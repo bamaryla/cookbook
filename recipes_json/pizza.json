@@ -1,0 +1,25 @@
+{
+    "title": "Pizza",
+    "ingredients": [
+        "1,5 szklanki mąki",
+        "3 dag drożdży",
+        "3 łyżeczki oliwy",
+        "½ szklanki ciepłej wody",
+        "½ łyżeczki soli",
+        "½ łyżeczki cukru",
+        "Koncentrat pomidorowy",
+        "Salami",
+        "Kurczak",
+        "Papryka świeża",
+        "Cebula",
+        "Ser żółty",
+        "Pomidor",
+        "Oliwki"
+    ],
+    "instructions": [
+        "Mąkę przesiać, dodać drożdże, oliwę, wodę, sól i cukier. Wyrabiać ciasto, odstawić na 30 minut.",
+        "Rozwałkować ciasto, posmarować koncentratem pomidorowym.",
+        "Nałożyć dodatki: salami, kurczak, papryka, cebula, ser, pomidor, oliwki.",
+        "Piec w piekarniku nagrzanym do 200 stopni przez 20 minut."
+    ]
+}

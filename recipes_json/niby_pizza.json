@@ -1,0 +1,24 @@
+{
+    "recipe_name": "Niby pizza",
+    "ingredients": [
+        "3 łyżki mąki",
+        "1 jajko",
+        "parówka, kawałek szynki lub innej wędliny",
+        "2 łyżeczki startego żółtego sera",
+        "pomidor",
+        "szczypiorek",
+        "natka pietruszki",
+        "olej",
+        "sól",
+        "pieprz"
+    ],
+    "instructions": [
+        "Jajo utrzeć z mąką tak, aby ciasto miało konsystencję naleśnikowego (do zbyt gęstego dodać trochę przegotowanej wody).",
+        "Dodać pokrojoną w drobną kostkę parówkę, wędlinę, posiekany szczypiorek, posypać solą i pieprzem, wymieszać.",
+        "Wylać ciasto na rozgrzany olej, obsmażyć z jednej strony i odwrócić na drugą.",
+        "Ułożyć pokrojonego w plasterki pomidora, posypać serem, ziołami, przykryć.",
+        "Smażyć na małym ogniu, aż ser się roztopi.",
+        "Wyłożyć na talerz, posypać natką, można polać keczupem.",
+        "Jeść na gorąco!"
+    ]
+}

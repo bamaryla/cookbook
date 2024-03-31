@@ -1,0 +1,33 @@
+{
+    "title": "Ptasie Mleczko",
+    "ingredients": {
+        "zalewa": {
+            "woda": "½ szklanki",
+            "sok z cytryny lub kwasek": "6 łyżeczek lub ½ łyżeczki",
+            "masło": "1 kostka",
+            "żelatyna": "6 dkg",
+            "cukry waniliowe": "2 sztuki"
+        },
+        "masa żółta": {
+            "żółtka": "4 sztuki",
+            "jaja całe": "2 sztuki",
+            "cukier": "6 łyżek"
+        },
+        "masa biała": {
+            "białka": "6 sztuk",
+            "cukier": "8 łyżek"
+        },
+        "dekoracja": {
+            "kakao": "1 łyżka",
+            "bakalie": "wedle uznania",
+            "galaretka": "czerwona lub zielona"
+        }
+    },
+    "instructions": [
+        "Wszystkie składniki zalewy zagotować, mieszając. Pozostawić do ostudzenia.",
+        "Masa żółta: Żółtka i jaja całe ubić z cukrem, dodać ½ zalewy przestudzonej, zmiksować. Wlać do tortownicy i wstawić do lodówki.",
+        "Masa biała: Białka ubić, dodać resztę zalewy oraz cukier, podzielony na pół.",
+        "Jedną część masy białej wylać na masę żółtą. Do drugiej części dodać kakao, wymieszać i wyłożyć na masę żółtą. Wstawić do lodówki.",
+        "Po około 20 minutach przybrać bakaliami i zalać galaretką (czerwoną lub zieloną)."
+    ]
+}

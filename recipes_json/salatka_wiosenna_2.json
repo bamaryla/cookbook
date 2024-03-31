@@ -1,0 +1,20 @@
+{
+    "recipe_name": "Sałatka wiosenna 2",
+    "ingredients": [
+        "główka zielonej sałaty",
+        "2 średniej wielkości ogórki",
+        "pęczek rzodkiewek",
+        "pęczek szczypiorku",
+        "3 jaja",
+        "mała puszka groszku konserwowanego",
+        "szklanka majonezu wymieszanego ze śmietaną",
+        "sól",
+        "pieprz"
+    ],
+    "instructions": [
+        "Sałatkę podzielić na małe kawałki.",
+        "Ogórki obrać i pokroić na cienkie ćwierć plasterki.",
+        "Rzodkiewkę pokroić na plasterki, szczypiorek i ugotowane na twardo jaja drobno posiekać.",
+        "Wszystkie warzywa wsypać do miski, dodać groszek, jaja, polać majonezem, przyprawić solą i pieprzem, dobrze wymieszać."
+    ]
+}
